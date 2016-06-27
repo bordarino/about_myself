@@ -1,30 +1,63 @@
-  body {
-    font-size: 20px;
+  
+  body{
     background-color: #efefef;
-    margin: 0;
   }
-  h1 {
-    font-size: 26px;
+ .logo{
     text-align: center;
-  }
-  img.my_photo {
-    display: block;
-    margin: auto;
-    padding-bottom: 50px;
-  }
-  div.backg {
-    background-color: white;
-    max-width: 500px;
-    margin: 2px auto 40px;
-    border: 1px solid #d6d6d6;
+    margin-top: 20px;
+  } 
+ 
+  .content{
+    width: 600px;
+    height: 100%;
+    border: 1px solid #dddddd;
+    margin: 0px auto;
+    background-color: #ffffff;
     box-shadow: 0 0 2px #d6d6d6;
-    padding: 50px 50px 20px;
-    height: 750px;
   }
-  hr {
-    width: 480px;
-    margin:auto;
+
+  .block1{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 12px;
   }
-  p {
-    margin-left: 35px;
+  .photo{
+    width: 350px;
+    height: 355px;
   }
+  p{
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 10px 50px;
+  }
+
+  ul{
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px 30px 20px 30px;
+
+  }
+  .zagolovok{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 14px;
+    margin: 20px 0px 0px 50px;
+  }
+
+  .line{
+    width: 85%; 
+    height: 1px; 
+    background: #000; 
+    margin: 5px 40px;
+  }
+
+  .footer{
+  text-align: center;
+    margin: 20px 0px 20px 0px;
+  font-family: Arial;
+    font-size: 14px;  
+  }
+
+
